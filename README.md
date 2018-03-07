@@ -2,12 +2,12 @@
 
 Congratulations! You now know how to build a basic authentication and authorization system.
 
-We would like to recap the Authentication and Authorization section by restating the definitions for the fundamental concepts and provide a list of commonly used gems to implement Authentication and Authorization.
+We would like to recap the Authentication and Authorization section by restating the definitions for the fundamental concepts and provide a list of gems commonly used to implement Authentication and Authorization.
 
 ## Core Definitions
-- Identification: Obtaining and identity claim from the user. (e.g., my email is, my name is)
+- Identification: Obtaining an identity claim from the user. (e.g., my email is, my name is)
 - Authentication: The process of verifying the identity claim of a user.
-- Access Policy: An access policy based on the identities and attributes of the resource being accessed and of the user requesting access.
+- Access Policy: A policy for what the user can and cannot see or do based on the identity and attributes of the resource being accessed and of the user requesting access.
 - Authorization: Access privileges granted to a user or the act of granting those privileges.
 
 ## Commonly Used Authentication and Authorization  Gems
