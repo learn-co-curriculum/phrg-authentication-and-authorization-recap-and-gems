@@ -1,4 +1,4 @@
-# Authentication and Authorization Recap
+# Authentication and Authorization Recap and Common Gems
 
 Congratulations! You now know how to build a basic authentication and authorization system.
 
