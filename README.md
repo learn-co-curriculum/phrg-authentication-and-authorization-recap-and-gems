@@ -24,3 +24,6 @@ We would like to recap the Authentication and Authorization section by restating
 - [Pundit](https://github.com/varvet/pundit)
 
 You can browse the [Ruby Toolbox](https://www.ruby-toolbox.com/) for more Authentication and Authorization gem options.
+
+## Resouces
+- Supplemental material: [Building your own Authorization with Metaprogramming](https://github.com/learn-co-curriculum/rails-video-review-building-authorization-and-metaprogramming)
