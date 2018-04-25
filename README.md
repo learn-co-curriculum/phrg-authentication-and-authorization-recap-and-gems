@@ -27,3 +27,4 @@ You can browse the [Ruby Toolbox](https://www.ruby-toolbox.com/) for more Authen
 
 ## Resouces
 - Supplemental material: [Building your own Authorization with Metaprogramming](https://github.com/learn-co-curriculum/rails-video-review-building-authorization-and-metaprogramming)
+<p data-visibility='hidden'>PHRG Authentication and Authorization Recap and Common Gems</p>

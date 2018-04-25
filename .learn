@@ -4,3 +4,4 @@ languages:
   - a language
 resources: 
   - 0
+parent_template: git@github.com:learn-co-curriculum/authentication-and-authorization-recap-and-gems.git
